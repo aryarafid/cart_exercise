@@ -1,0 +1,23 @@
+[
+  {
+    "id": 12,
+    "title": "Brown Perfume",
+    "description": "Lorem ipsum dsb",
+    "price": 40000,
+    "images": "react.svg"
+  },
+  {
+    "id": 13,
+    "title": "Green Perfume",
+    "description": "Lorem ipsum dsb",
+    "price": 40000,
+    "images": "react.svg"
+  },
+  {
+    "id": 14,
+    "title": "Red Perfume",
+    "description": "Lorem ipsum dsb",
+    "price": 40000,
+    "images": "react.svg"
+  }
+]
